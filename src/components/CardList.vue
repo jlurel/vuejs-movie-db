@@ -33,6 +33,7 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  padding: 0 2rem;
 }
 
 .selector {
@@ -74,6 +75,11 @@
   display: flex;
   align-items: stretch;
   justify-content: flex-start;
+  padding: 1rem 0;
+}
+
+.card-list > div:first-child {
+  margin-left: 40px;
 }
 
 .scroller {

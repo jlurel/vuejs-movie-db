@@ -137,7 +137,7 @@ export default defineComponent({
 
 <style lang="scss">
 .card {
-  margin-left: 10px;
+  margin-left: 20px;
   background-color: var(--secondary-bg-color);
   border-radius: 15px;
   box-shadow: 0 2px 8px var(--box-shadow-color);
